@@ -2,6 +2,7 @@
 This class introduces programming language concepts including design, syntax, semantics, pragmatics, implementation, and evaluation. Presentation of one or more languages from categories including procedural, functional, object-oriented, logic, and concurrent programming paradigms.
 
 C Assignemnt:-
+
 Microproject
 Write a C program which contains the following: a function called invert_case, taking a string pointer argument, which inverts the case of each letter in the provided string; a main function which asks the user for an input string, calls invert_case using a pointer to that string, and prints the output.
 
@@ -14,6 +15,7 @@ If you are using Windows, be sure your project also works on the CS Linux machin
 
 
 Clojure Assginment:-
+
 Microproject
 Examine the below main project. Write one or more Clojure functions which perform symbolic simplification on (un-nested) expressions using the and logical connective. Be sure to generalize to all possible variables and valid numbers of arguments to and. For example: 
 
